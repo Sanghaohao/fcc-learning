@@ -1,0 +1,61 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
+</head>
+
+body {
+  margin-top: 60px;
+  background-color: beige;
+}
+
+<style>
+  #header1 {
+    font-family: 'Ma Shan Zheng', cursive;
+  }
+
+  .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="text-center" id="header1">重D音工人乐队</h1>
+      <h2 class="text-center">Power Bass D Worker Band</h2>
+      <h2 class="text-center"><em>重要的底层声音</em></h2>
+    </div>
+  </div>
+  <div class="thumbnail">
+    <img class="img-responsive center-block" src="http://qn.jianjiaobuluo.com/editor/20151230/1451465571135902.jpg">
+    <div class="caption text-center">
+      <p>
+        <em>重D音乐队是一支由来深建设者利用业余时间组成的乐队，其歌唱自己，歌唱劳动，歌唱生活，歌唱野蛮生长的力量；在不停地歌唱中重塑劳动价值与尊重，让劳动者能够体面地劳动、有尊严地生活。</em></p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <h2 class="text-center">重D音大事记</h2>
+    </div>
+    <div class="col-md-4"></div>
+    <div class="col-md-4 " <ul>
+      <li>成立于2011年五一劳动节</li>
+      <li>现成员有，鼓手（领队）：董军，吉他手：阿晓，吉他手：小李，贝斯手：小娜，主唱：吖鬼</li>
+      <li>首张专辑<strong>《这年头不好混》</strong>发布于2014年</li>
+      <li>单曲<strong>《和机器跳舞的人》</strong>被新工人艺术团工伤主题专辑《和机器跳舞的人》收录</li>
+      <li>第二张专辑<strong>《飘零的花》</strong>发布于2018年</li>
+      <li>第三张专辑<strong>《工作坊合集》</strong>发布于2019年</li>
+      </ul> 
+   <blockquote>
+    重D音：D代表底层，重，是重要的，有力量的。——底层的声音是重要的，有力量的。
+  </blockquote>
+    </div>
+
+
+
+  </div>
+
+
+</div>
